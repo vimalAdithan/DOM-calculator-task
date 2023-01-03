@@ -1,0 +1,16 @@
+button{
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+.bac{
+    width: auto;
+}
+
+.data{
+    margin: 3px;
+    font-size: 25px;
+    width: auto;
+    height: 30px;
+    border: solid 2px black;
+}
